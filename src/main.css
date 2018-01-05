@@ -1,0 +1,47 @@
+body {
+  color: #030b11;
+}
+
+.omikuji {
+  padding: 10px 10px;
+  margin: 80px auto;
+  writing-mode: vertical-rl;
+  text-align: center;
+  background-color: #ffffff;
+  cursor: pointer;
+  border: solid 1px #000000;
+}
+
+.omikuji-inner {
+  display: flex;
+  padding: 80px 40px;
+  writing-mode: vertical-rl;
+  text-align: center;
+  background-color: #72B3C9;
+  cursor: pointer;
+  border: solid 1px #000000;
+  border-radius: 10px;
+}
+
+.title-elm {
+  margin-bottom: 10px;
+}
+
+.title-e {
+  font-size: 2em;
+  color: #92CD54;
+}
+
+.title-l {
+  font-size: 2em;
+  color: #E8AE3C;
+}
+
+.title-m {
+  font-size: 2em;
+  color: #5B6376;
+}
+
+.title {
+  font-size: 2em;
+}
