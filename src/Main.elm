@@ -29,6 +29,11 @@ update msg model =
     ( model, Cmd.none )
 
 
+pattern : List String
+pattern =
+    [ "大吉", "吉", "中吉", "小吉", "末吉", "凶", "大凶" ]
+
+
 
 ---- VIEW ----
 
